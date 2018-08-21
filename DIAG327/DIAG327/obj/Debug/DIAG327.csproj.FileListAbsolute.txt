@@ -1,0 +1,16 @@
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\bin\Debug\DIAG327.exe.config
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\bin\Debug\DIAG327.exe
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\bin\Debug\DIAG327.pdb
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.About.resources
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.Diag.resources
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.Face.resources
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.Properties.Resources.resources
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.csproj.GenerateResource.cache
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.csproj.CoreCompileInputs.cache
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.exe
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.pdb
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.csprojResolveAssemblyReference.cache
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.Info.resources
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\bin\Debug\itextsharp.dll
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\bin\Debug\itextsharp.xml
+C:\Users\dehnk\OneDrive\Рабочий стол\DIAG327\DIAG327\obj\Debug\DIAG327.csproj.CopyComplete
